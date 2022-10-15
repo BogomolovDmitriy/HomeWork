@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int num = new Random().Next(1, 100);
+
+if ((num % 2) == 0)
+{
+    Console.Write(num);
+    Console.WriteLine(" - четное число.");
+}
+else
+{
+    Console.Write(num);
+    Console.WriteLine(" - нечетное число.");
+}
