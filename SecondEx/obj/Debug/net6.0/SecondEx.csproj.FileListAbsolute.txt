@@ -1,0 +1,15 @@
+C:\Users\Юзер\Documents\Programms\Обучение\HomeWork_Seminar1\SecondEx\bin\Debug\net6.0\SecondEx.exe
+C:\Users\Юзер\Documents\Programms\Обучение\HomeWork_Seminar1\SecondEx\bin\Debug\net6.0\SecondEx.deps.json
+C:\Users\Юзер\Documents\Programms\Обучение\HomeWork_Seminar1\SecondEx\bin\Debug\net6.0\SecondEx.runtimeconfig.json
+C:\Users\Юзер\Documents\Programms\Обучение\HomeWork_Seminar1\SecondEx\bin\Debug\net6.0\SecondEx.dll
+C:\Users\Юзер\Documents\Programms\Обучение\HomeWork_Seminar1\SecondEx\bin\Debug\net6.0\SecondEx.pdb
+C:\Users\Юзер\Documents\Programms\Обучение\HomeWork_Seminar1\SecondEx\obj\Debug\net6.0\SecondEx.csproj.AssemblyReference.cache
+C:\Users\Юзер\Documents\Programms\Обучение\HomeWork_Seminar1\SecondEx\obj\Debug\net6.0\SecondEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юзер\Documents\Programms\Обучение\HomeWork_Seminar1\SecondEx\obj\Debug\net6.0\SecondEx.AssemblyInfoInputs.cache
+C:\Users\Юзер\Documents\Programms\Обучение\HomeWork_Seminar1\SecondEx\obj\Debug\net6.0\SecondEx.AssemblyInfo.cs
+C:\Users\Юзер\Documents\Programms\Обучение\HomeWork_Seminar1\SecondEx\obj\Debug\net6.0\SecondEx.csproj.CoreCompileInputs.cache
+C:\Users\Юзер\Documents\Programms\Обучение\HomeWork_Seminar1\SecondEx\obj\Debug\net6.0\SecondEx.dll
+C:\Users\Юзер\Documents\Programms\Обучение\HomeWork_Seminar1\SecondEx\obj\Debug\net6.0\refint\SecondEx.dll
+C:\Users\Юзер\Documents\Programms\Обучение\HomeWork_Seminar1\SecondEx\obj\Debug\net6.0\SecondEx.pdb
+C:\Users\Юзер\Documents\Programms\Обучение\HomeWork_Seminar1\SecondEx\obj\Debug\net6.0\SecondEx.genruntimeconfig.cache
+C:\Users\Юзер\Documents\Programms\Обучение\HomeWork_Seminar1\SecondEx\obj\Debug\net6.0\ref\SecondEx.dll
